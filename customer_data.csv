@@ -1,0 +1,151 @@
+Customer ID,Age,Gender,Marital Status,Dependents,Location,Occupation,Claims (3yrs),Claim Type,Online Activity,Service Calls,Current Insurance,Coverage,Renewal,Premium (3yrs),,Fraudulent
+CUST001,32,Male,Married,2,ZIP 12345,Professional,1,Auto Accident,Frequent,0,"Auto, Home",High,On-time,"$10,000 ",,1
+CUST002,55,Female,Single,0,"City A, State B",Retired,0,None,Low,1,Auto,Medium,On-time,"$5,000 ",,0
+CUST003,28,Male,Single,0,ZIP 54321,Student,2,Property Damage (Theft),High,2,None,-,Lapsed,"$10,001 ",,1
+CUST004,22,Male,Married,1,"City A, State B",Student,1,Liability,Frequent,0,"Auto, Home",Partial,On-time,"$5,001 ",,1
+CUST005,49,Female,Married,0,ZIP 12345,Software Engineer,2,Life,Low,1,Auto,Full,On-time,"$10,002 ",,1
+CUST006,57,Male,Married,2,"City A, State B",Retired,0,Auto Accident,High,2,None,Full,Lapsed,"$5,002 ",,0
+CUST007,63,Female,Married,1,ZIP 54321,Student,1,None,Frequent,0,"Auto, Home",Partial,On-time,"$10,003 ",,1
+CUST008,27,Female,Single,3,ZIP 12345,Retired,2,Property Damage (Theft),High,1,Auto,Partial,On-time,"$5,003 ",,0
+CUST009,34,Male,Single,0,ZIP 12345,Software Engineer,1,Liability,Low,2,None,Partial,Lapsed,"$10,004 ",,0
+CUST010,74,Female,Married,1,"City A, State B",Business Man,0,Life,Frequent,0,"Auto, Home",Full,On-time,"$5,004 ",,0
+CUST011,83,Female,Single,2,"City A, State B",Professional,0,Food,High,1,Auto,Partial,On-time,"$10,005 ",,0
+CUST012,61,Male,Married,1,ZIP 12345,Student,1,Death,Low,2,None,Partial,Lapsed,"$5,005 ",,1
+CUST013,24,Female,Single,4,ZIP 54321,Retired,2,Food,Frequent,0,"Auto, Home",Partial,On-time,"$10,006 ",,1
+CUST014,47,Female,Married,0,ZIP 12345,Software Engineer,0,Death,High,1,Auto,Full,On-time,"$5,006 ",,1
+CUST015,38,Male,Single,1,ZIP 12345,Business Man,1,Auto Accident,Low,2,None,Full,Lapsed,"$10,007 ",,0
+CUST016,58,Female,Single,2,ZIP 12345,Professional,2,None,Frequent,0,"Auto, Home",Full,Lapsed,"$5,007 ",,0
+CUST017,50,Female,Married,3,ZIP 54321,Retired,1,Property Damage (Theft),High,1,Auto,Full,On-time,"$10,008 ",,1
+CUST018,40,Male,Married,5,"City A, State B",Student,2,Liability,Low,2,None,Full,On-time,"$5,008 ",,0
+CUST019,41,Male,Single,0,ZIP 12345,Software Engineer,0,Life,Frequent,2,"Auto, Home",Full,Lapsed,"$10,009 ",,1
+CUST020,62,Female,Married,1,"City A, State B",Retired,1,Liability,High,0,Auto,Full,On-time,"$5,009 ",,0
+CUST021,32,Male,Single,2,ZIP 54321,Business Man,2,Life,Low,1,None,Full,On-time,"$10,010 ",,1
+CUST022,52,Female,Married,3,ZIP 12345,Professional,0,Death,Frequent,2,"Auto, Home",Partial,Lapsed,"$5,010 ",,0
+CUST023,57,Male,Single,4,ZIP 54321,Student,1,Food,High,0,Auto,Partial,On-time,"$10,011 ",,1
+CUST024,42,Female,Single,5,"City A, State B",Retired,2,Auto Accident,Low,1,None,Full,On-time,"$5,011 ",,0
+CUST025,71,Female,Single,0,ZIP 12345,Business Man,0,None,Frequent,2,"Auto, Home",Full,Lapsed,"$10,012 ",,1
+CUST026,63,Male,Married,1,ZIP 54321,Software Engineer,1,Liability,Low,0,Auto,Partial,On-time,"$5,012 ",,0
+CUST027,68,Female,Single,1,"City A, State B",Retired,2,Property Damage (Theft),High,1,None,Full,On-time,"$10,013 ",,0
+CUST028,53,Female,Single,2,ZIP 12345,Student,0,Liability,Frequent,2,"Auto, Home",Full,Lapsed,"$5,013 ",,0
+CUST029,52,Female,Single,0,"City A, State B",Professional,1,Life,Low,0,Auto,Partial,On-time,"$10,014 ",,0
+CUST030,31,Female,Single,1,ZIP 54321,Student,2,Food,High,1,None,Partial,On-time,"$5,014 ",,0
+CUST031,29,Male,Married,2,"City A, State B",Retired,0,Death,Frequent,2,"Auto, Home",Partial,Lapsed,"$10,015 ",,0
+CUST032,35,Female,Single,3,ZIP 12345,Professional,1,Property Damage (Theft),High,0,Auto,Full,On-time,"$5,015 ",,1
+CUST033,45,Female,Single,0,"City A, State B",Business Man,2,Liability,Low,1,None,Partial,On-time,"$10,016 ",,1
+CUST034,55,Male,Single,1,"City A, State B",Student,0,Life,Frequent,2,"Auto, Home",Partial,Lapsed,"$5,016 ",,1
+CUST035,65,Female,Single,2,"City A, State B",Software Engineer,1,Death,High,0,Auto,Partial,On-time,"$10,017 ",,1
+CUST036,61,Female,Married,3,ZIP 12345,Student,2,Auto Accident,Low,1,None,Full,On-time,"$5,017 ",,1
+CUST037,51,Male,Married,0,ZIP 12345,Business Man,0,None,High,2,"Auto, Home",Full,Lapsed,"$10,018 ",,1
+CUST038,41,Female,Single,1,ZIP 12345,Retired,1,Food,Frequent,0,Auto,Full,On-time,"$5,018 ",,0
+CUST039,31,Female,Married,2,ZIP 54321,Professional,2,Death,Low,1,None,Full,On-time,"$10,019 ",,0
+CUST040,29,Female,Married,3,"City A, State B",Student,0,Liability,Frequent,2,"Auto, Home",Full,Lapsed,"$5,019 ",,1
+CUST041,49,Female,Single,0,"City A, State B",Software Engineer,1,Life,High,0,Auto,Full,On-time,"$10,020 ",,0
+CUST042,59,Male,Married,1,ZIP 12345,Retired,2,Property Damage (Theft),Low,1,None,Full,On-time,"$5,020 ",,1
+CUST043,69,Malle,Married,2,ZIP 54321,Student,0,Liability,Frequent,2,"Auto, Home",Full,Lapsed,"$10,021 ",,1
+CUST044,57,Female,Married,3,ZIP 12345,Professional,1,Life,High,2,Auto,Partial,On-time,"$5,021 ",,0
+CUST045,67,Male,Married,0,ZIP 54321,Student,2,Auto Accident,Low,0,None,Partial,On-time,"$10,022 ",,1
+CUST046,47,Female,Single,1,"City A, State B",Software Engineer,0,Death,,1,"Auto, Home",Full,Lapsed,"$5,022 ",,1
+CUST047,37,Male,Married,2,"City A, State B",Retired,1,Liability,,2,Auto,Full,On-time,"$10,023 ",,1
+CUST048,27,Female,Married,0,ZIP 12345,Business Man,2,Life,,0,None,Partial,On-time,"$5,023 ",,0
+CUST049,38,Male,Single,1,ZIP 54321,Software Engineer,0,Property Damage (Theft),,1,"Auto, Home",Full,Lapsed,"$10,024 ",,1
+CUST050,48,Female,Married,0,ZIP 12345,Student,1,Death,,2,Auto,Full,On-time,"$5,024 ",,0
+CUST051,56,Male,Single,3,City A,Lawyer,4,None,High,4,None,Full,On-time,"$10,025 ",,0
+CUST052,69,Male,Single,3,City D,Lawyer,3,Accident,Medium,3,"Auto, Home",Partial,Lapsed,"$5,025 ",,1
+CUST053,46,Male,Divorced,0,City A,Engineer,0,Theft,Low,9,Auto,Partial,Yes,"$10,026 ",,1
+CUST054,32,Male,Single,1,City D,Lawyer,4,Accident,High,7,None,Partial,Yes,"$5,026 ",,1
+CUST055,60,Male,Divorced,0,City B,Lawyer,0,Theft,Low,0,"Auto, Home",Full,Yes,"$10,027 ",,1
+CUST056,25,Female,Married,3,City C,Lawyer,2,Theft,High,9,Auto,Partial,Yes,"$5,027 ",,0
+CUST057,38,Male,Divorced,4,City A,Doctor,0,None,Medium,0,None,Partial,No,"$10,028 ",,0
+CUST058,56,Female,Single,4,City D,Artist,0,Accident,Low,3,"Auto, Home",Partial,No,"$5,028 ",,1
+CUST059,36,Female,Married,2,City A,Teacher,0,None,High,7,Auto,Full,Yes,"$10,029 ",,0
+CUST060,40,Female,Married,0,City D,Doctor,3,Accident,Medium,4,None,Full,Yes,"$5,029 ",,1
+CUST061,28,Male,Married,0,City A,Lawyer,0,Accident,Low,1,"Auto, Home",Full,No,"$10,030 ",,0
+CUST062,28,Male,Divorced,2,City D,Engineer,4,Fire,Low,5,Auto,Full,Yes,"$5,030 ",,1
+CUST063,41,Male,Single,2,City D,Lawyer,2,Accident,High,4,None,Full,No,"$10,031 ",,0
+CUST064,53,Male,Married,2,City B,Artist,2,None,High,1,"Auto, Home",Full,Yes,"$5,031 ",,1
+CUST065,57,Female,Married,3,City D,Lawyer,0,Theft,High,2,Auto,Full,Yes,"$10,032 ",,0
+CUST066,41,Male,Married,0,City B,Engineer,3,Accident,Medium,8,None,Full,Yes,"$5,032 ",,0
+CUST067,20,Male,Divorced,3,City D,Artist,3,Fire,High,6,"Auto, Home",Partial,Yes,"$10,033 ",,0
+CUST068,39,Male,Divorced,2,City C,Lawyer,4,None,Low,6,Auto,Partial,Yes,"$5,033 ",,0
+CUST069,19,Male,Single,0,City C,Artist,0,Accident,Low,5,None,Full,Yes,"$10,034 ",,0
+CUST070,41,Male,Divorced,3,City C,Teacher,2,None,High,7,"Auto, Home",Full,Yes,"$5,034 ",,0
+CUST071,61,Female,Married,3,City D,Teacher,3,Fire,High,3,Auto,Partial,No,"$10,035 ",,0
+CUST072,47,Male,Single,2,City B,Lawyer,0,Fire,Low,7,None,Full,No,"$5,035 ",,0
+CUST073,55,Female,Married,0,City B,Artist,3,None,Medium,3,"Auto, Home",Full,No,"$10,036 ",,1
+CUST074,19,Male,Married,2,City D,Engineer,3,Accident,High,7,Auto,Full,No,"$5,036 ",,1
+CUST075,38,Female,Divorced,0,City C,Lawyer,2,Theft,High,8,None,Partial,No,"$10,037 ",,1
+CUST076,50,Male,Single,4,City C,Teacher,1,Fire,Low,2,"Auto, Home",Partial,Yes,"$5,037 ",,1
+CUST077,29,Male,Divorced,1,City B,Teacher,4,Accident,High,2,Auto,Partial,Yes,"$10,038 ",,1
+CUST078,39,Female,Divorced,1,City C,Lawyer,4,Accident,Medium,1,None,Partial,No,"$5,038 ",,1
+CUST079,61,Female,Single,1,City A,Artist,2,Theft,Low,9,"Auto, Home",Partial,Yes,"$10,039 ",,1
+CUST080,42,Female,Married,2,City B,Teacher,3,Fire,High,2,Auto,Full,No,"$5,039 ",,1
+CUST081,66,Male,Married,4,City C,Artist,0,Fire,Low,2,None,Partial,No,"$10,040 ",,1
+CUST082,44,Female,Single,0,City B,Teacher,3,Accident,High,4,"Auto, Home",Full,Yes,"$5,040 ",,1
+CUST083,59,Male,Married,3,City A,Teacher,2,Accident,High,4,Auto,Full,Yes,"$10,041 ",,1
+CUST084,45,Male,Single,0,City B,Doctor,4,Theft,High,1,None,Partial,Yes,"$5,041 ",,1
+CUST085,33,Female,Single,3,City B,Teacher,3,Theft,Medium,9,"Auto, Home",Partial,No,"$10,042 ",,1
+CUST086,32,Female,Divorced,0,City B,Engineer,4,Fire,Medium,5,Auto,Full,Yes,"$5,042 ",,1
+CUST087,64,Male,Single,4,City B,Lawyer,0,None,Low,4,None,Full,No,"$10,043 ",,1
+CUST088,68,Male,Divorced,3,City A,Lawyer,4,Fire,High,5,"Auto, Home",Full,No,"$5,043 ",,0
+CUST089,61,Female,Married,2,City D,Artist,4,Accident,High,0,Auto,Partial,No,"$10,044 ",,0
+CUST090,69,Female,Married,0,City B,Teacher,1,Fire,Medium,4,None,Partial,Yes,"$5,044 ",,0
+CUST091,20,Female,Married,0,City B,Engineer,1,None,High,8,"Auto, Home",Partial,Yes,"$10,045 ",,1
+CUST092,54,Male,Married,3,City C,Artist,1,Theft,Medium,9,Auto,Partial,No,"$5,045 ",,0
+CUST093,68,Male,Divorced,2,City B,Doctor,4,None,High,1,None,Partial,Yes,"$10,046 ",,0
+CUST094,24,Male,Married,2,City C,Artist,2,None,Low,0,"Auto, Home",Full,Yes,"$5,046 ",,0
+CUST095,38,Male,Single,4,City D,Artist,4,None,High,9,Auto,Partial,Yes,"$10,047 ",,1
+CUST096,26,Male,Single,2,City A,Teacher,2,Theft,High,8,None,Full,No,"$5,047 ",,0
+CUST097,56,Male,Single,2,City A,Doctor,2,None,Medium,9,"Auto, Home",Full,No,"$10,048 ",,0
+CUST098,35,Female,Divorced,2,City D,Artist,1,None,High,8,Auto,Full,Yes,"$5,048 ",,0
+CUST099,21,Male,Married,1,City A,Engineer,3,None,High,8,None,Partial,No,"$10,049 ",,0
+CUST100,42,Male,Married,4,City D,Engineer,0,Accident,Medium,5,"Auto, Home",Partial,Yes,"$5,049 ",,0
+CUST101,31,Male,Married,0,City D,Lawyer,1,None,Low,7,Auto,Partial,Yes,"$10,050 ",,1
+CUST102,67,Female,Divorced,3,City D,Doctor,1,Theft,Low,0,None,Full,Yes,"$5,050 ",,0
+CUST103,26,Male,Single,0,City A,Doctor,3,None,Medium,9,,Full,Yes,"$10,051 ",,1
+CUST104,43,Male,Single,4,City C,Lawyer,0,None,Medium,3,"Auto, Home",Full,No,"$5,051 ",,0
+CUST105,19,Female,Married,3,City D,Artist,4,Theft,Medium,0,Auto,Full,No,"$10,052 ",,1
+CUST106,37,Male,Single,4,City B,Doctor,4,None,Medium,7,None,Full,No,"$5,052 ",,0
+CUST107,45,Male,Single,2,City A,Engineer,1,Theft,Medium,0,"Auto, Home",Full,Yes,"$10,053 ",,1
+CUST108,64,Male,Divorced,3,City D,Engineer,0,None,Low,2,Auto,Partial,Yes,"$5,053 ",,0
+CUST109,24,Male,Divorced,2,City D,Teacher,1,Theft,Low,3,None,Partial,Yes,"$10,054 ",,1
+CUST110,61,Male,Divorced,0,City B,Doctor,2,None,Medium,7,"Auto, Home",Partial,No,"$5,054 ",,1
+CUST111,25,Female,Divorced,0,City C,Artist,1,None,High,5,Auto,Partial,Yes,"$10,055 ",,1
+CUST112,64,Female,Married,3,City C,Lawyer,1,Accident,Medium,9,None,Full,No,"$5,055 ",,0
+CUST113,52,Female,Divorced,3,City C,Lawyer,4,Accident,High,6,"Auto, Home",Full,No,"$10,056 ",,1
+CUST114,31,Male,Single,4,City D,Artist,4,None,Medium,7,Auto,Partial,No,"$5,056 ",,1
+CUST115,34,Male,Married,4,City D,Teacher,4,None,Medium,1,None,Full,No,"$10,057 ",,1
+CUST116,53,Male,Single,2,City D,Lawyer,2,Fire,Low,9,"Auto, Home",Partial,No,"$5,057 ",,1
+CUST117,67,Female,Single,3,City A,Doctor,4,Theft,High,7,Auto,Partial,No,"$10,058 ",,1
+CUST118,57,Male,Single,0,City B,Teacher,0,Fire,High,2,None,Partial,Yes,"$5,058 ",,1
+CUST119,21,Male,Divorced,4,City D,Doctor,3,Accident,Low,6,"Auto, Home",Full,Yes,"$10,059 ",,1
+CUST120,19,Female,Divorced,4,City B,Engineer,0,Accident,Low,2,Auto,Partial,No,"$5,059 ",,1
+CUST121,23,Male,Married,0,City B,Teacher,0,Accident,Low,6,None,Partial,No,"$10,060 ",,1
+CUST122,59,Female,Married,4,City C,Lawyer,4,Accident,Low,1,"Auto, Home",Partial,Yes,"$5,060 ",,1
+CUST123,21,Female,Divorced,2,City A,Teacher,3,None,High,9,Auto,Full,No,"$10,061 ",,1
+CUST124,46,Female,Single,3,City D,Teacher,3,Accident,High,5,None,Full,No,"$5,061 ",,1
+CUST125,35,Male,Married,0,City C,Teacher,3,None,Medium,2,"Auto, Home",Partial,Yes,"$10,062 ",,1
+CUST126,43,Male,Divorced,3,City C,Teacher,2,None,Medium,2,Auto,Full,No,"$5,062 ",,1
+CUST127,61,Male,Divorced,4,City D,Doctor,4,Accident,Low,8,None,Full,No,"$10,063 ",,1
+CUST128,51,Male,Divorced,4,City B,Engineer,3,Accident,Low,6,"Auto, Home",Full,No,"$5,063 ",,0
+CUST129,27,Male,Single,0,City C,Artist,2,Theft,Low,4,Auto,Full,Yes,"$10,064 ",,0
+CUST130,53,Male,Divorced,2,City B,Teacher,1,Fire,Medium,9,None,Full,Yes,"$5,064 ",,0
+CUST131,31,Male,Divorced,1,City A,Lawyer,1,Accident,Medium,6,"Auto, Home",Full,Yes,"$10,065 ",,0
+CUST132,48,Female,Divorced,0,City B,Teacher,2,Theft,Medium,8,Auto,Full,No,"$5,065 ",,0
+CUST133,65,Male,Divorced,1,City A,Lawyer,2,Theft,Medium,0,None,Full,No,"$10,066 ",,0
+CUST134,32,Female,Married,1,City B,Doctor,4,Fire,Medium,6,"Auto, Home",Full,Yes,"$5,066 ",,0
+CUST135,25,Male,Married,2,City C,Lawyer,4,None,Medium,5,Auto,Full,No,"$10,067 ",,0
+CUST136,31,Male,Divorced,1,City C,Artist,1,Accident,Medium,9,None,Partial,No,"$5,067 ",,0
+CUST137,40,Male,Single,1,City A,Engineer,3,Fire,Low,8,"Auto, Home",Partial,No,"$10,068 ",,0
+CUST138,57,Female,Married,2,City D,Lawyer,1,Accident,Low,0,Auto,Full,No,"$5,068 ",,0
+CUST139,38,Female,Divorced,1,City A,Lawyer,3,Theft,Low,3,None,Partial,No,"$10,069 ",,1
+CUST140,33,Female,Married,1,City A,Engineer,3,Theft,Low,8,"Auto, Home",Partial,Yes,"$5,069 ",,1
+CUST141,62,Female,Married,1,City B,Artist,4,None,Medium,3,Auto,Full,No,"$10,070 ",,1
+CUST142,35,Male,Single,0,City B,Teacher,0,Theft,High,9,None,Full,Yes,"$5,070 ",,0
+CUST143,64,Female,Divorced,0,City A,Lawyer,0,Theft,Medium,2,"Auto, Home",Full,No,"$10,071 ",,1
+CUST144,41,Male,Divorced,0,City C,Engineer,2,Fire,High,8,Auto,Partial,Yes,"$5,071 ",,1
+CUST145,43,Male,Single,2,City B,Doctor,4,Accident,Low,1,None,Partial,No,"$10,072 ",,0
+CUST146,42,Female,Single,4,City D,Engineer,3,Accident,Medium,3,"Auto, Home",Full,Yes,"$5,072 ",,0
+CUST147,62,Female,Divorced,1,City B,Doctor,0,Fire,Low,5,Auto,Full,No,"$10,073 ",,1
+CUST148,58,Female,Divorced,1,City B,Artist,3,None,Medium,1,None,Full,Yes,"$5,073 ",,0
+CUST149,46,Female,Single,2,City D,Teacher,0,Accident,Low,7,"Auto, Home",Partial,No,"$10,074 ",,1
+CUST150,32,Female,Married,1,City A,Engineer,0,Theft,High,7,Auto,Partial,Yes,"$5,074 ",,0
